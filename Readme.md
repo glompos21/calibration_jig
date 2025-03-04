@@ -21,7 +21,6 @@ Need to remove around 2mm of the M3x20mm screw
 ![file](./file.png)
 
 
-
 ## License
 
 Copyright (c) 2024 Kostas Gompakis
